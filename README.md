@@ -6,7 +6,6 @@ Proyecto Full Stack de comercio electrónico desarrollado como proyecto integrad
 
 <div style="text-align: justify;">Este proyecto consiste en el diseño y desarrollo integral (desde la fase de requerimientos hasta la codificación) de una plataforma web de comercio electrónico especializada en productos de la marca Skechers. El sistema aplica metodologías de ingeniería de software para resolver de manera eficiente la gestión de ventas, inventarios y usuarios.</div>
 
----
 ## Estado Actual del Proyecto: En Desarrollo
 
 El proyecto se encuentra en la transición entre la **Fase de Diseño de Arquitectura** y la **Fase de Construcción (Codificación Backend)**. Se trabaja bajo un enfoque metodológico ordenado, donde la base analítica está completada y los componentes de software se están desarrollando progresivamente.
