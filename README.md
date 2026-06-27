@@ -4,7 +4,7 @@
 
 Proyecto Full Stack de comercio electrónico desarrollado como proyecto integrador del Tecnólogo ADSO.
 
-<div style="text-align: justify;">Este proyecto consiste en el diseño y desarrollo integral (desde la fase de requerimientos hasta la codificación) de una plataforma web de comercio electrónico especializada en productos de la marca Skechers. El sistema aplica metodologías de ingeniería de software para resolver de manera eficiente la gestión de ventas, inventarios y usuarios.</div>
+Este proyecto consiste en el diseño y desarrollo integral (desde la fase de requerimientos hasta la codificación) de una plataforma web de comercio electrónico especializada en productos de la marca Skechers. El sistema aplica metodologías de ingeniería de software para resolver de manera eficiente la gestión de ventas, inventarios y usuarios.
 
 ## Estado Actual del Proyecto: En Desarrollo
 
